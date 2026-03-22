@@ -1,0 +1,5 @@
+{
+  "name": "Flowforge",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "workspaceFolder": "/workspaces/Flowforge",
+}
